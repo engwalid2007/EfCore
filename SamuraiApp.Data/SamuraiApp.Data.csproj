@@ -127,6 +127,10 @@
     <Compile Include="Migrations\20170728175612_init.designer.cs">
       <DependentUpon>20170728175612_init.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\20170728182421_second.cs" />
+    <Compile Include="Migrations\20170728182421_second.designer.cs">
+      <DependentUpon>20170728182421_second.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\SamuraiDataContextModelSnapshot.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SamuraiDataContext.cs" />
