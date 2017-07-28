@@ -1,0 +1,5 @@
+D:\github\Repos\EfCore\SamuraiApp.Domains\bin\Debug\SamuraiApp.Domains.dll
+D:\github\Repos\EfCore\SamuraiApp.Domains\bin\Debug\SamuraiApp.Domains.pdb
+D:\github\Repos\EfCore\SamuraiApp.Domains\obj\Debug\SamuraiApp.Domains.csprojResolveAssemblyReference.cache
+D:\github\Repos\EfCore\SamuraiApp.Domains\obj\Debug\SamuraiApp.Domains.dll
+D:\github\Repos\EfCore\SamuraiApp.Domains\obj\Debug\SamuraiApp.Domains.pdb
